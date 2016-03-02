@@ -1,6 +1,6 @@
 '''
 Created on Apr 24, 2012
-'testtest
+'testtest2
 @author: user
 '''
 import random
